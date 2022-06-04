@@ -1,0 +1,11 @@
+.file:hover {
+    background-color: #f5f6fa;
+    cursor: pointer;
+}
+.dropdown-toggle::before {
+    display:none !important;
+}
+
+.sort:hover {
+    cursor: pointer;
+}

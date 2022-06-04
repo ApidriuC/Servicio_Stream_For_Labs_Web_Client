@@ -1,0 +1,15 @@
+.layout {
+    display: grid;
+    grid-template-columns: 150px repeat(3, 1fr);
+    grid-template-areas: "header header header header"
+                         "sidebar content content content";
+}
+.layout .header {
+    grid-area: header;
+}
+.layout .sidebar {
+    grid-area: sidebar;
+}
+.layout .content {
+    grid-area: content;
+}
