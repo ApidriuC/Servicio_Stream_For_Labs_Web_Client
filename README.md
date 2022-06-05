@@ -9,6 +9,16 @@ Streams for lab es un proyecto integrador de la facultad de ing. de sistemas, pr
 
 Como iniciativa en la solución al manejo de recursos compartidos en pequeñas empresas o el hogar se propone desarrollar un sistema distribuido de administración de recursos compartidos como se muestra en la Figura 1. Entre ellos archivos, fotos y video desde una interfaz unificada. Se propone que el sistema permita sincronizar datos de celular o directorios de un equipo de escritorio, en una copia de seguridad. También ofrezca la capacidad de compartir archivos. Si los archivos son imágenes o video el sistema ofrecería la capacidad de organizar y presentar las imágenes. Por ejemplo, la aplicación “Fotos” de Google. Además, el sistema tendría un servidor streaming para compartir y reproducir video.
 
+
+# List of repositories 
+- [Gateway service](https://github.com/ApidriuC/Servicio_Stream_For_Labs_Gateway)
+- [Video service](https://github.com/ApidriuC/Servicio_Stream_For_Labs_Video)
+- [Photo service](https://github.com/ApidriuC/Servicio_Stream_For_Labs_Photo)
+- [File service](https://github.com/ApidriuC/Servicio_Stream_For_Labs_File)
+- [Sync service](https://github.com/ApidriuC/Servicio_Stream_For_Labs_Sync)
+- [Web client](https://github.com/ApidriuC/Servicio_Stream_For_Labs_Web_Client)
+- [Admin service](https://github.com/ApidriuC/Servicio_Stream_For_Labs_Admin)
+
 # Secciones de la aplicación web
 ## Login
 ![Admin Login](https://firebasestorage.googleapis.com/v0/b/files-service.appspot.com/o/images%2FLogin%20admin.png?alt=media&token=06f93f06-91c6-4171-84f2-fcbfcbcaa3e1)
